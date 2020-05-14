@@ -5,3 +5,7 @@
 
 The server and client application is in Command prompt non-GUI interface as docker for windows does not support GUI in 2019.
 
+Server and Client Code- Contains server and client exe and its dockerfile 
+
+
+
